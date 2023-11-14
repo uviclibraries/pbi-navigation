@@ -4,33 +4,35 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images\power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" style="float:right;width:180px;" alt="Power BI Logo">
 
 # WORKSHOP TITLE HERE (Use Regular Case Like this)
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 30 min
+- Hands-on activities: 30-45 min
 
-## Why TOOL NAME HERE? 
+## Why Power BI? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Power BI](https://powerbi.microsoft.com/en-ca/){:target="_blank"} is a data visualization and analytics tool by Microsoft. It can be used to present raw data in various human readable ways to help communicate and make data driven decisions. As this workshop focuses on the "end-user" or someone who is reading a report created by someone else, we will explore navigation, and data literacy so you may make the most of pre-existing reports.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+This workshop is not an endorsement of Power BI, but an opportunity for you to learn if it was your institution has decided to adopt Power BI for data management and communication. It has some limitations that you should be aware of:
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+- The built in navigation for Power BI has a learning curve
+- Data literacy is always important, but especially when it is prepared and presented to you in a specific way
+- Most Power BI reports can only be shared with users who have Power BI, due to data privacy reasons
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Navigate between report pages
+2. Read visualizations and legends
+3. Filter data
+4. Access more details with tooltips and drill-throughs
+5. Share reports or parts of reports
+6. Personalize report features 
+7. Export data tables and visualizations
+8. Receive notifications about a report
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
