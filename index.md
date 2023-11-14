@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Why Power BI? 
 
-[Power BI](https://powerbi.microsoft.com/en-ca/){:target="_blank"} is a data visualization and analytics tool by Microsoft. It can be used to present raw data in various human readable ways to help communicate and make data driven decisions. As this workshop focuses on the "end-user" or someone who is reading a report created by someone else, we will explore navigation, and data literacy so you may make the most of pre-existing reports.
+[Power BI](https://powerbi.microsoft.com/en-ca/) is a data visualization and analytics tool by Microsoft. It can be used to present raw data in various human readable ways to help communicate and make data driven decisions. As this workshop focuses on the "end-user" or someone who is reading a report created by someone else, we will explore navigation, and data literacy so you may make the most of pre-existing reports.
 
 This workshop is not an endorsement of Power BI, but an opportunity for you to learn if it was your institution has decided to adopt Power BI for data management and communication. It has some limitations that you should be aware of:
 
