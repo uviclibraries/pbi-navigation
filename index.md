@@ -6,7 +6,7 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images\power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" style="float:right;width:180px;" alt="Power BI Logo">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Introduction to Power BI Navigation
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 30 min
