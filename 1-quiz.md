@@ -1,7 +1,9 @@
+---
 layout: default
 title: Navigation Quiz
 nav_order: 2
 parent: Workshop Activities
+---
 
 # Navigation Quiz
 
