@@ -1,7 +1,7 @@
 ---
 layout: default
-title: File Uploads
-nav_order: 3
+title: 2. File Uploads
+nav_order: 6
 parent: Workshop Activities
 ---
 
@@ -13,3 +13,9 @@ Please email the following files to [cairosanders@uvic.ca](mailto:cairosanders@u
 2. Using the "Ask a question about your data" box on the Explore page, produce a row chart of count of films by producer and **submit a screenshot** of the visualization.
 3. Create your own visual (of anything) in the box that says "Make your own custom visual!" and **submit a screenshot**.
 
+Congrats, you have completed Introduction to Power BI navigation!
+You can ask your instructor for feedback now, or wait for an email response.
+
+**Be sure to check out the additional resources on the next page**
+
+[Additional Resources](additional-resources.md){: .btn .btn-blue }
