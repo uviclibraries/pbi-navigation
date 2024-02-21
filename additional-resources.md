@@ -8,7 +8,7 @@ nav_order: 10
 ## Power BI Navigation Resources
 - [Accessibility in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-overview)
 - [Getting around in Power BI service](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-experience)
-- 
+- [Power BI for End User LibGuide](https://libguides.uvic.ca/powerbi_end_users)
 
 ## Acknowledgements
 
