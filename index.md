@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
+
 <img src="images\power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" style="float:right;width:180px;" alt="Power BI Logo">
 
 # Introduction to Power BI Navigation
@@ -11,6 +11,8 @@ nav_order: 1
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 30 min
 - Hands-on activities: 30-45 min
+
+Check [the DSC Calendar](https://onlineacademiccommunity.uvic.ca/dsc/workshops/) for upcoming synchronous workshops.
 
 ## Why Power BI? 
 
